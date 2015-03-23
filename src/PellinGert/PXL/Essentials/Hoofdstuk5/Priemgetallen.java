@@ -7,7 +7,6 @@ public class Priemgetallen
 {
 	public static void main(String[] args)
 	{
-		long start = System.currentTimeMillis();
 		 int UpperLimit = 1000;
 		 ArrayList<Integer> Primes =  new ArrayList<>();
 		 for (int i = 2; i<=UpperLimit; i++)
@@ -36,7 +35,5 @@ public class Priemgetallen
 				 System.out.println();
 			 }
 		 }
-		 
-		 System.out.println("\ntijd: "+(System.currentTimeMillis()-start));
 	}
 }
