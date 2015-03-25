@@ -17,15 +17,15 @@ $endfunction
 >maxKonijnen(1,500)
 39364
 >function genereer() ...
-$  x:=intrandom(499)+1;
-$  y:=intrandom(499)+1;
+$  x:=intrandom(500);
+$  y:=intrandom(500);
 $  if x>y
 $    then return {y,x}
-$    else rerurn {x,y}
+$    else return {x,y}
 $endfunction
 >{b,e}:=genereer; b , e
-9
-338
+376
+397
 >maxKonijnen(b,e)
 13120
 >

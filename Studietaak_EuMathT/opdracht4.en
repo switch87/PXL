@@ -1,0 +1,30 @@
+﻿>function genereerTekst(n) ...
+$  Tekst:="";
+$  for i=1 to n step 1
+$    Tekst:=Tekst|char(intrandom(26)+64);
+$  end;
+$  return Tekst
+$endfunction
+>genereerTekst(7)    // Gert Pellin 05/02/87 n=5+2=7
+AWQJWRP
+>function keerOm1(tekst) ...
+$  Out:="";
+$  for i=strlen(tekst) to 1 step -1
+$    Out:=Out|substring(tekst,i,i);
+$  end;
+$  return Out
+$endfunction
+>keerOm1("Gert Pellin")
+nilleP treG
+>function keerOm2(tekst,n) ...
+$  Out:="";
+$  for i=strlen(tekst) to 1 step -1
+$    for j=1 to n step 1
+$      Out:=Out|substring(tekst,i,i);
+$    end;
+$  end;
+$  return Out;
+$endfunction
+>keerOm2("Gert Pellin",4)
+nnnniiiilllllllleeeePPPP    ttttrrrreeeeGGGG
+>
