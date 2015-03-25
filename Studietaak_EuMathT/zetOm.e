@@ -9,10 +9,10 @@ function zetOm(bedrag) ...
   Out:=[bedrag];
   Rest:=bedrag;
   Geld:=[0,500,200,100,50,20,10,5,2,1,0.5];
-  for i=2 to 9 step 1
+  for i=2 to 10 step 1
     Out:=Out|floor(Rest/Geld[i]);
     Rest:=mod(Rest,Geld[i]);
   end;
-  Out:=Out|Rest;
+  Out:=Out|Rest/0.5;
   return Geld'|Out';
 endfunction
