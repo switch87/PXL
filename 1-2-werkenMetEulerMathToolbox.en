@@ -1,0 +1,76 @@
+﻿% oefeningen
+%% ----------
+% 
+% 1. Bereken volgende uitdrukkingen
+%% in Euler en in Maxima.
+%% Is er een verschil in resultaat?
+%% Welk resultaat is het meest bruikbaar?
+>(3/7)^100
+0
+>&(3/7)^100
+
+       515377520732011331036461129765621272702107522001/3234476509624\
+757991344647769100216810857203198904625400933895331391691459636928060\
+001
+
+>23^45
+1.89562584301e+061
+>&23^45
+
+       18956258430116202791319715713277227626159289499745290235663543
+
+>(2^200-1)/(2^200+1)
+1
+>&(2^200-1)/(2^200+1)
+
+       1606938044258990275541962092341162602522202993782792835301375
+       -------------------------------------------------------------
+       1606938044258990275541962092341162602522202993782792835301377
+
+% Maxima geeft zeer naukeurige resultaten, zonder afronding,waardoor het
+% voor gewoon gebruik te ingewikkeld wordt. Euler geeft leesbare en
+% gebruikklare uitkomsten, waardoor hier meestal de voorkeur naartoe zal
+% gaan.
+>
+% 2. Vereenvoudig volgende uitdrukkingen door gebruik te maken van
+% EuMathT.
+>&x/3+x/4
+
+                                 7 x
+                                 ---
+                                 12
+
+>&(3*x^5*y^4)/(2*x^2*y^8)
+
+                                    3
+                                 3 x
+                                 ----
+                                    4
+                                 2 y
+
+>&a*b+a-b*a-b
+
+                                a - b
+
+% 3. Voer volgende drie expressies in en ga na of ze correct op het
+% scherm gekomen zijn. Bereken daarna deze uitdrukkingen voor x=4 
+>4*x-2/x-6
+9.5
+>4*x-2/(x-6)
+17
+>4*(x-2/x-6)
+-10
+>x=4
+4
+>
+>fracprint(8.7534322,eps=0.1)
+35/4
+>printhex(68)
+4.4000000000000*16^1
+>mod(8,6)
+2
+>floor(8.6)
+8
+>ceil(8.6)
+9
+>

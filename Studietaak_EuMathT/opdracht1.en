@@ -1,0 +1,23 @@
+﻿>k:=intrandom(400)+800;                // a) willekeurig getal k
+>productie:=intrandom(160)*50+4000;    // c) willekeurig getal voor geproduceerde eenheden
+>k , productie
+807
+6450
+>function winst(k,x) ...               // b) functie winst
+$  x:=x/1000;
+$  // bereken de kosten
+$  if x<=6
+$    then kost:=round((-5/6*x^2+10*x+15)*100,2);
+$    else kost:=round((3/2*x^2-18*x+99)*100,2);
+$  endif
+$  // bereken de omzet
+$  omzet:=round(k*x,2);
+$  // bereken de winst
+$  return omzet-kost;
+$endfunction
+>winst(k,productie)
+674.78
+>plot2d("winst(k,x)",4000,12000)       // d) grafiek
+>mouse()                               // e) snijpuntmet 0 -> kosten == omzet -> productie van om en bij de 5540 eenheden
+[5541.86,  3.48965]
+>
