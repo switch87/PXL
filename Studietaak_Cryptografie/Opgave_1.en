@@ -54,4 +54,6 @@ Gertje gaat naar school en neemt mee...
 110,  101,  101,  109,  116,  32,  109,  101,  101,  46,  46,  46]
 >zetOmTekst(%)
 Gertje gcu#l`s#qhool en neemt mee...
+% ascii waarde 0 wordt als NULL gezien en geeft hierdoor een verkeerd
+% resultaat
 >
