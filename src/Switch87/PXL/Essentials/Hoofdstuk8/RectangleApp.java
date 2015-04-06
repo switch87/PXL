@@ -1,10 +1,8 @@
-package PellinGert.PXL.Essentials.Hoofdstuk8;
+package Switch87.PXL.Essentials.Hoofdstuk8;
 
 /**
  * Created by gert on 4/04/2015.
  */
-
-import static PellinGert.PXL.Essentials.Hoofdstuk8.Rectangle.*;
 
 public class RectangleApp {
     public static void main(String[] args){

@@ -1,5 +1,5 @@
-package PellinGert.PXL.Essentials.Hoofdstuk8;
-import java.math.*;
+package Switch87.PXL.Essentials.Hoofdstuk8;
+
 /**
  * Created by gert on 4/04/2015.
  */

@@ -1,4 +1,4 @@
-package PellinGert.CompleteJava2Certification.Swing;
+package Switch87.CompleteJava2Certification.Swing;
 
 import java.awt.*;
 import javax.swing.*;

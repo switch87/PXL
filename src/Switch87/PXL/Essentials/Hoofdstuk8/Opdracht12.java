@@ -1,4 +1,4 @@
-package PellinGert.PXL.Essentials.Hoofdstuk8;
+package Switch87.PXL.Essentials.Hoofdstuk8;
 
 import java.util.*;
 /**

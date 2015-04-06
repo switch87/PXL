@@ -1,4 +1,4 @@
-package PellinGert.PXL.Essentials.Hoofdstuk7;
+package Switch87.PXL.Essentials.Hoofdstuk7;
 
 /**
  * Created by gert on 4/04/2015.
