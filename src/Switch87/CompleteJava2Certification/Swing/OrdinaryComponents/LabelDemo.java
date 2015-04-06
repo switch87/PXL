@@ -1,4 +1,4 @@
-package Switch87.CompleteJava2Certification.Swing;
+package Switch87.CompleteJava2Certification.Swing.OrdinaryComponents;
 
 import java.awt.*;
 import javax.swing.*;

@@ -1,4 +1,4 @@
-package Switch87.CompleteJava2Certification.Swing;
+package Switch87.CompleteJava2Certification.Swing.ContainerComponents;
 
 import javax.swing.*;
 /**
