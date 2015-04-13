@@ -1,0 +1,59 @@
+﻿>function zetOmAscii(tekst) ...
+$  if mod(strlen(tekst),3)!=0
+$    then for i=1 to 3-mod(strlen(tekst),3) step 1;
+$      tekst:=tekst+" ";
+$    end;
+$  endif;
+$  V:=[];
+$  for i=1 to strlen(tekst) step 1;
+$    V:=V|ascii(substring(tekst,i,i));
+$  end;
+$  return V
+$endfunction
+>function zetOmTekst(V) ...
+$  tekst:="";
+$  for i=1 to length(V) step 1;
+$    tekst:=tekst|char(V[i]);
+$  end;
+$  return tekst
+$endfunction
+>function blokXorCodeer(V, sleutel) ...
+$  code:=[];
+$  for i=1 to length(V) step 1;
+$    code:=code|bitxor(V[i],ascii(substring(sleutel,mod(i-1,3)+1,mod(i-1,3)+1)));
+$  end;
+$  return code
+$endfunction
+>V:=zetOmAscii("Gertje gaat naar school en neemt mee..."); V
+[71,  101,  114,  116,  106,  101,  32,  103,  97,  97,  116,  32,
+110,  97,  97,  114,  32,  115,  99,  104,  111,  111,  108,  32,
+101,  110,  32,  110,  101,  101,  109,  116,  32,  109,  101,  101,
+46,  46,  46]
+>X:=blokXorCodeer(V,"cba"); X
+[36,  7,  19,  23,  8,  4,  67,  5,  0,  2,  22,  65,  13,  3,  0,  17,
+66,  18,  0,  10,  14,  12,  14,  65,  6,  12,  65,  13,  7,  4,  14,
+22,  65,  14,  7,  4,  77,  76,  79]
+>Y:=blokXorCodeer(X,"cba"); Y
+[71,  101,  114,  116,  106,  101,  32,  103,  97,  97,  116,  32,
+110,  97,  97,  114,  32,  115,  99,  104,  111,  111,  108,  32,
+101,  110,  32,  110,  101,  101,  109,  116,  32,  109,  101,  101,
+46,  46,  46]
+>zetOmTekst(Y)
+Gertje gaat naar school en neemt mee...
+% e) eerst de gecodeerde vector terug naar tekst omzetten:
+>zetOmTekst(X)
+ $CAB
+AAAMLO
+>zetOmAscii(%)
+[36,  7,  19,  23,  8,  4,  67,  5,  2,  22,  65,  13,  3,  17,  66,
+18,  10,  14,  12,  14,  65,  6,  12,  65,  13,  7,  4,  14,  22,  65,
+14,  7,  4,  77,  76,  79]
+>blokXorCodeer(%,"cba")
+[71,  101,  114,  116,  106,  101,  32,  103,  99,  117,  35,  108,
+96,  115,  35,  113,  104,  111,  111,  108,  32,  101,  110,  32,
+110,  101,  101,  109,  116,  32,  109,  101,  101,  46,  46,  46]
+>zetOmTekst(%)
+Gertje gcu#l`s#qhool en neemt mee...
+% ascii waarde 0 wordt als NULL gezien en geeft hierdoor een verkeerd
+% resultaat
+>
