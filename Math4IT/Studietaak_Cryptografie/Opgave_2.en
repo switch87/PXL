@@ -1,0 +1,23 @@
+﻿>function ggd(get1,get2) ...
+$  if get1 > get2
+$    then;
+$    x:=get1;
+$    y:=get2;
+$  else
+$    then;
+$    y:=get1;
+$    x:=get2;
+$  endif;
+$  repeat while mod(x,y) != 0
+$    then;
+$    tempx:=y;
+$    y:=mod(x,y);
+$    x:=tempx;
+$  end;
+$  return y;
+$endfunction
+>z:=ggd(81,240);
+>z
+3
+>
+>
