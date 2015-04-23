@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd8600e4-f2ac-405e-a9bf-3958e9c25658" name="Default" comment="hashcodes, nog niet 100%" />
+    <list default="true" id="fd8600e4-f2ac-405e-a9bf-3958e9c25658" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="JavaEssentials.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -63,16 +66,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RightAngledTriangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/RightAngledTriangle.java">
+      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.46853146">
+              <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
               <folding>
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#666#667#0" expanded="true" />
-                <element signature="e#694#695#0" expanded="true" />
+                <element signature="method#Triangle#0;class#Triangle#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -117,10 +117,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DrawingApp.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DrawingApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/DrawingApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5332168">
+            <state vertical-scroll-proportion="0.0">
               <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -252,7 +252,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -394,7 +394,7 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/PellinGert/PXL" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -799,7 +799,7 @@
       <workItem from="1429616893259" duration="840000" />
       <workItem from="1429771598712" duration="293000" />
       <workItem from="1429771995444" duration="652000" />
-      <workItem from="1429808105463" duration="7396000" />
+      <workItem from="1429808105463" duration="9075000" />
     </task>
     <task id="LOCAL-00001" summary="triangle">
       <created>1429562072420</created>
@@ -823,7 +823,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20871000" />
+    <option name="totallyTimeSpent" value="22550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3042" y="24" width="1400" height="1000" extended-state="0" />
@@ -864,6 +864,7 @@
     </option>
   </component>
   <component name="VcsContentAnnotationSettings">
+    <option name="myShow1" value="true" />
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
@@ -1284,23 +1285,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="92" column="37" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
-          <folding>
-            <element signature="method#Triangle#0;class#Triangle#0" expanded="false" />
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
-            <element signature="e#1328#1329#0" expanded="true" />
-            <element signature="e#1364#1365#0" expanded="true" />
-            <element signature="e#1567#1568#0" expanded="true" />
-            <element signature="e#1618#1619#0" expanded="true" />
-            <element signature="method#getPerimeter#0;class#Triangle#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Square.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1461,10 +1445,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/DrawingApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5332168">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46853146">
+          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+          <folding>
+            <element signature="method#Triangle#0;class#Triangle#0" expanded="false" />
           </folding>
         </state>
       </provider>
