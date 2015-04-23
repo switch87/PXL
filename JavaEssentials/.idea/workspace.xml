@@ -1,0 +1,1511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd8600e4-f2ac-405e-a9bf-3958e9c25658" name="Default" comment="hashcodes, nog niet 100%">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Circle.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Circle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Opdracht12.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Opdracht12.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/Opdracht14_1.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/Opdracht14_1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/Opdracht14_2.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/Opdracht14_2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/Opdracht14_3.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/Opdracht14_3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/Opdracht14_4.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/Opdracht14_4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/Opdracht14_5.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/Opdracht14_5.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/Opdracht14_7.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/Opdracht14_7.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/Priemgetallen.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/Priemgetallen.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/PriemgetallenMetArray.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/PriemgetallenMetArray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk6/RandomApp.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk6/RandomApp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Rectangle.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Rectangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Shape.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Shape.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Square.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Square.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Triangle.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Triangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk7/opdracht1.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk7/opdracht1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk7/opdracht3.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk7/opdracht3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk6/opdracht4.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk6/opdracht4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk6/opdracht5.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk6/opdracht5.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk6/opdracht6.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk6/opdracht6.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk7/opdracht7.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk7/opdracht7.java" />
+    </list>
+    <ignored path="JavaEssentials.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JavaEssentials" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+              <folding>
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#791#792#0" expanded="true" />
+                <element signature="e#838#839#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriemgetallenMetArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/PriemgetallenMetArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Priemgetallen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/Priemgetallen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Triangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="82" column="57" selection-start-line="82" selection-start-column="57" selection-end-line="82" selection-end-column="57" />
+              <folding>
+                <element signature="e#890#891#0" expanded="true" />
+                <element signature="e#919#920#0" expanded="true" />
+                <element signature="e#1083#1084#0" expanded="true" />
+                <element signature="e#1137#1138#0" expanded="true" />
+                <element signature="e#1166#1167#0" expanded="true" />
+                <element signature="e#1194#1195#0" expanded="true" />
+                <element signature="e#2084#2085#0" expanded="true" />
+                <element signature="e#2149#2150#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RightAngledTriangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/RightAngledTriangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="77" column="68" selection-start-line="77" selection-start-column="68" selection-end-line="77" selection-end-column="68" />
+              <folding>
+                <element signature="e#896#897#0" expanded="true" />
+                <element signature="e#930#931#0" expanded="true" />
+                <element signature="e#1408#1409#0" expanded="true" />
+                <element signature="e#1434#1435#0" expanded="true" />
+                <element signature="e#1636#1637#0" expanded="true" />
+                <element signature="e#1712#1713#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Square.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Square.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.667063">
+              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="69" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+              <folding>
+                <element signature="e#1381#1382#0" expanded="true" />
+                <element signature="e#1439#1440#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IsoScalesTriangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/IsoScalesTriangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EquilateralTriangles.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/EquilateralTriangles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="31" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="32" />
+              <folding>
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#698#699#0" expanded="true" />
+                <element signature="e#748#749#0" expanded="true" />
+                <element signature="e#785#786#0" expanded="true" />
+                <element signature="e#828#829#0" expanded="true" />
+                <element signature="e#867#868#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bin/PellinGert/PXL/Essentials/Hoofdstuk8To9/RectangleApp.class" />
+        <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Logo.java" />
+        <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/RectangleApp.java" />
+        <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/TriangleApp.java" />
+        <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/RightAngledTriangle.java" />
+        <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Shape.java" />
+        <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Circle.java" />
+        <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/EquilateralTriangles.java" />
+        <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/IsoScalesTriangle.java" />
+        <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Square.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="256" />
+    <option name="y" value="67" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEssentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEssentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEssentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEssentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEssentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Essentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hoofdstuk8To9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEssentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEssentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Essentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEssentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEssentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Essentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hoofdstuk5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.PriemgetallenMetArray">
+    <configuration default="false" name="RectangleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="PellinGert.PXL.Essentials.Hoofdstuk8To9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="PellinGert.PXL.Essentials.Hoofdstuk8To9.RectangleApp" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaEssentials" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TriangleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="PellinGert.PXL.Essentials.Hoofdstuk8To9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="PellinGert.PXL.Essentials.Hoofdstuk8To9.TriangleApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaEssentials" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opdracht7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="PellinGert.PXL.Essentials.Hoofdstuk7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="PellinGert.PXL.Essentials.Hoofdstuk7.opdracht7" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaEssentials" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PriemgetallenMetArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="PellinGert.PXL.Essentials.Hoofdstuk5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="PellinGert.PXL.Essentials.Hoofdstuk5.PriemgetallenMetArray" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaEssentials" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.RectangleApp" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TriangleApp" />
+      <item index="2" class="java.lang.String" itemvalue="Application.opdracht7" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PriemgetallenMetArray" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.PriemgetallenMetArray" />
+        <item index="1" class="java.lang.String" itemvalue="Application.opdracht7" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TriangleApp" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RectangleApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INHERITED,SHOW_NON_PUBLIC" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\net04\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd8600e4-f2ac-405e-a9bf-3958e9c25658" name="Default" comment="" />
+      <created>1428237603906</created>
+      <option name="number" value="Default" />
+      <updated>1428237603906</updated>
+      <workItem from="1428237604729" duration="2044000" />
+      <workItem from="1429554237368" duration="284000" />
+      <workItem from="1429554536000" duration="86000" />
+      <workItem from="1429554882601" duration="15000" />
+      <workItem from="1429554965805" duration="1971000" />
+      <workItem from="1429599288792" duration="7290000" />
+      <workItem from="1429616893259" duration="840000" />
+      <workItem from="1429771598712" duration="293000" />
+      <workItem from="1429771995444" duration="652000" />
+    </task>
+    <task id="LOCAL-00001" summary="triangle">
+      <created>1429562072420</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1429562072420</updated>
+    </task>
+    <task id="LOCAL-00002" summary="verschillende soorten driehoek toegevoegd">
+      <created>1429604195798</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1429604195798</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hashcodes, nog niet 100%">
+      <created>1429772059100</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1429772059100</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13475000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="256" y="67" width="1400" height="1000" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33716917" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24925373" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985073" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25820896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="triangle" />
+    <MESSAGE value="verschillende soorten driehoek toegevoegd" />
+    <MESSAGE value="hashcodes, nog niet 100%" />
+    <option name="LAST_COMMIT_MESSAGE" value="hashcodes, nog niet 100%" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bin/PellinGert/PXL/Essentials/Hoofdstuk8To9/RectangleApp.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/RectangleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="13" selection-start-line="46" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
+          <folding>
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+            <element signature="e#1408#1409#0" expanded="true" />
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1636#1637#0" expanded="true" />
+            <element signature="e#1712#1713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Logo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="e#1381#1382#0" expanded="true" />
+            <element signature="e#1439#1440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+          <folding>
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#2084#2085#0" expanded="true" />
+            <element signature="e#2149#2150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/PellinGert/PXL/Essentials/Hoofdstuk8To9/Square.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/PellinGert/PXL/Essentials/Hoofdstuk8To9/RectangleApp.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/RectangleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+            <element signature="e#1408#1409#0" expanded="true" />
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1636#1637#0" expanded="true" />
+            <element signature="e#1712#1713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Logo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="e#1381#1382#0" expanded="true" />
+            <element signature="e#1439#1440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+          <folding>
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#2084#2085#0" expanded="true" />
+            <element signature="e#2149#2150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/PellinGert/PXL/Essentials/Hoofdstuk8To9/Square.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/PellinGert/PXL/Essentials/Hoofdstuk8To9/RectangleApp.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/RectangleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+            <element signature="e#1408#1409#0" expanded="true" />
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1636#1637#0" expanded="true" />
+            <element signature="e#1712#1713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Logo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="e#1381#1382#0" expanded="true" />
+            <element signature="e#1439#1440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+          <folding>
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#2084#2085#0" expanded="true" />
+            <element signature="e#2149#2150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/PellinGert/PXL/Essentials/Hoofdstuk8To9/Square.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/PellinGert/PXL/Essentials/Hoofdstuk8To9/RectangleApp.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/RectangleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+            <element signature="e#1408#1409#0" expanded="true" />
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1636#1637#0" expanded="true" />
+            <element signature="e#1712#1713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Logo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="e#1381#1382#0" expanded="true" />
+            <element signature="e#1439#1440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#2084#2085#0" expanded="true" />
+            <element signature="e#2149#2150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/RectangleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+            <element signature="e#1408#1409#0" expanded="true" />
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1636#1637#0" expanded="true" />
+            <element signature="e#1712#1713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Logo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="e#1381#1382#0" expanded="true" />
+            <element signature="e#1439#1440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/PellinGert/PXL/Essentials/Hoofdstuk8To9/Square.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/PellinGert/PXL/Essentials/Hoofdstuk8To9/RectangleApp.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.88">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Logo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_40/jre/lib/rt.jar!/java/lang/Math.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.017208">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/TriangleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/RectangleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/RightAngledTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+          <folding>
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/Priemgetallen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk5/PriemgetallenMetArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="68" selection-start-line="77" selection-start-column="68" selection-end-line="77" selection-end-column="68" />
+          <folding>
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+            <element signature="e#1408#1409#0" expanded="true" />
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1636#1637#0" expanded="true" />
+            <element signature="e#1712#1713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+          <folding>
+            <element signature="e#1381#1382#0" expanded="true" />
+            <element signature="e#1439#1440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="57" selection-start-line="82" selection-start-column="57" selection-end-line="82" selection-end-column="57" />
+          <folding>
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#2084#2085#0" expanded="true" />
+            <element signature="e#2149#2150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/EquilateralTriangles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="32" />
+          <folding>
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+            <element signature="e#828#829#0" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/IsoScalesTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8To9/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.667063">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaEssentials</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
