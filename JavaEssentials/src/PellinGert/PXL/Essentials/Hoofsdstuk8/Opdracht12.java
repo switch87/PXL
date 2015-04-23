@@ -5,10 +5,11 @@ import java.util.GregorianCalendar;
 
 /**
  * Created by gert on 4/04/2015.
+ * Hoofdstuk 8: Opdracht 12
  */
 public class Opdracht12 {
     public static void main(String[] args) {
-        GregorianCalendar Cal = new GregorianCalendar(1987, 2, 5, 15, 0, 0);
+        GregorianCalendar Cal = new GregorianCalendar(1987, 2-1, 05, 15, 0, 0); //jan=0 feb=1 ...
         System.out.print("Ik ben geboren op een ");
         switch (Cal.get(Calendar.DAY_OF_WEEK)) {
             case 1:
