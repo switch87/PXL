@@ -1,4 +1,4 @@
-package PellinGert.PXL.Essentials.Hoofdstuk8To9;
+package PellinGert.PXL.Essentials.FigurenTekenen;
 
 import java.util.ArrayList;
 

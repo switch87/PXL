@@ -1,4 +1,4 @@
-package PellinGert.PXL.Essentials.Hoofdstuk8To9;
+package PellinGert.PXL.Essentials.FigurenTekenen;
 
 /**
  * Created by gert on 4/04/2015.

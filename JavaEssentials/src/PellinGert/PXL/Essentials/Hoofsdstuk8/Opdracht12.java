@@ -1,4 +1,4 @@
-package PellinGert.PXL.Essentials.Hoofdstuk8To9;
+package PellinGert.PXL.Essentials.Hoofsdstuk8;
 
 import java.util.Calendar;
 import java.util.GregorianCalendar;
