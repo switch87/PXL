@@ -75,6 +75,6 @@ public class Rectangle extends Shape {
 
     @Override
     public int hashCode() {
-        return super.hashCode() + getHeight() * 17 + getWidth() * 23;
+        return super.hashCode() + (getHeight() * 17) + (getWidth() * 23);
     }
 }

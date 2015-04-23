@@ -34,6 +34,6 @@ public class EquilateralTriangles extends IsoScalesTriangle {
 
     @Override
     public int hashCode() {
-        return super.hashCode();
+        return super.hashCode() + (getWidth() * 59);
     }
 }

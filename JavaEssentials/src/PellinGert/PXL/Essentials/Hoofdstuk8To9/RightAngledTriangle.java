@@ -37,4 +37,9 @@ public class RightAngledTriangle extends Triangle {
     public double getPerimeter() {
         return Math.sqrt(Math.pow(getWidth(), 2) + Math.pow(getHeight(), 2)) + getWidth() + getHeight();
     }
+
+    @Override
+    public int hashCode() {
+        return super.hashCode() + (getWidth() * 71);
+    }
 }

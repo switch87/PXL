@@ -46,4 +46,14 @@ public class Logo {
         for (Rectangle rectangle : Rectangles) Area += rectangle.getArea();
         return Area;
     }
+
+    @Override
+    public int hashCode() {
+        int hash = super.hashCode();
+        for (Circle circle : this.getCircle())
+            hash += circle.hashCode();
+        for (Rectangle rectangle : this.getRectangle())
+            hash += rectangle.hashCode();
+        return hash;
+    }
 }

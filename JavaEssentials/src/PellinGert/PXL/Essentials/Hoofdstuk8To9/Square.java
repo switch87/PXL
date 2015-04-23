@@ -37,7 +37,6 @@ public class Square extends Rectangle {
         super.setWidth(Side);
     }
 
-    // overriding:
     @Override
     public void setHeight(int Side) {
         setSide(Side);
@@ -48,12 +47,13 @@ public class Square extends Rectangle {
         setSide(Side);
     }
 
+    @Override
     public String getDescription() {
         return super.getDescription() + " (" + Description + ")";
     }
 
     @Override
     public int hashCode() {
-        return super.hashCode() + getSide() * 31;
+        return super.hashCode() + (getSide() * 31);
     }
 }

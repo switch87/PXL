@@ -48,6 +48,6 @@ public abstract class Shape {
 
     @Override
     public int hashCode() {
-        return getX() * 7 + getY() * 13;
+        return (getX() * 7) + (getY() * 13);
     }
 }

@@ -80,6 +80,6 @@ public class Triangle extends Shape {
 
     @Override
     public int hashCode() {
-        return super.hashCode() + getPerpendicular() * 19;
+        return super.hashCode() + (getPerpendicular() * 19);
     }
 }

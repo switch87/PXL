@@ -37,5 +37,8 @@ public class IsoScalesTriangle extends Triangle {
         return 2 * Math.sqrt(Math.pow(getWidth() / 2, 2) + Math.pow(getHeight(), 2)) + getWidth();
     }
 
-
+    @Override
+    public int hashCode() {
+        return super.hashCode() + (getPerpendicular() * 53);
+    }
 }
