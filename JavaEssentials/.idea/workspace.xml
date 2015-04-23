@@ -108,8 +108,8 @@
       <file leaf-file-name="Hoofdstuk9_Opdracht9.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Hoofdstuk9_Opdracht9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.56643355">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.8181818">
+              <caret line="46" column="103" selection-start-line="46" selection-start-column="103" selection-end-line="46" selection-end-column="103" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -746,7 +746,7 @@
       <workItem from="1429616893259" duration="840000" />
       <workItem from="1429771598712" duration="293000" />
       <workItem from="1429771995444" duration="652000" />
-      <workItem from="1429808105463" duration="5956000" />
+      <workItem from="1429808105463" duration="6332000" />
     </task>
     <task id="LOCAL-00001" summary="triangle">
       <created>1429562072420</created>
@@ -770,7 +770,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19431000" />
+    <option name="totallyTimeSpent" value="19807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3042" y="24" width="1400" height="1000" extended-state="0" />
@@ -1380,8 +1380,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Hoofdstuk9_Opdracht9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56643355">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.8181818">
+          <caret line="46" column="103" selection-start-line="46" selection-start-column="103" selection-end-line="46" selection-end-column="103" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

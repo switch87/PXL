@@ -41,6 +41,10 @@ public class Hoofdstuk9_Opdracht9 {
             }
             System.out.println();
         }
-
+        System.out.println("\n2de manier:\n");
+        for (Shape shape : Shapes) {
+            System.out.println(shape.toString());
+            System.out.println("Omtrek: " + shape.getPerimeter() + ", Oppervlakte: " + shape.getArea()+"\n");
+        }
     }
 }
