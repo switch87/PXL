@@ -39,7 +39,15 @@ public class RightAngledTriangle extends Triangle {
     }
 
     @Override
-    public int hashCode() {
-        return super.hashCode() + (getWidth() * 71);
+    public String toString() {
+        return "Right Angled Triangle{" +
+                "Height=" + getHeight() +
+                ", Width=" + getWidth() +
+                ", Perpendicular=" + getPerpendicular() +
+                "X=" + getX() +
+                ", Y=" + getY() +
+                '}';
     }
+
+
 }

@@ -8,7 +8,7 @@ public class Circle extends Shape {
     private static final int ANGLES = 0;
     private static final String Description = "circle";
     private static int Count = 0;
-    private int X, Y, Radius;
+    private int Radius;
 
     public Circle(int Radius, int x, int y) {
         super(x, y);
@@ -40,11 +40,6 @@ public class Circle extends Shape {
         return Description;
     }
 
-    public void serPosition(int X, int Y) {
-        this.setX(X);
-        this.setY(Y);
-    }
-
     public int getRadius() {
         return Radius;
     }
@@ -66,7 +61,30 @@ public class Circle extends Shape {
     }
 
     @Override
+    public String toString() {
+        return "Circle{" +
+                "Radius=" + Radius +
+                ", X=" + getX() +
+                ", Y=" + getY() +
+                "} ";
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Circle)) return false;
+        if (!super.equals(o)) return false;
+
+        Circle circle = (Circle) o;
+
+        return getRadius() == circle.getRadius();
+
+    }
+
+    @Override
     public int hashCode() {
-        return super.hashCode() + getRadius() * 11;
+        int result = super.hashCode();
+        result = 31 * result + getRadius();
+        return result;
     }
 }

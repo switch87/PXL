@@ -47,7 +47,29 @@ public abstract class Shape {
     public abstract double getPerimeter();
 
     @Override
+    public String toString() {
+        return "Shape{" +
+                "X=" + X +
+                ", Y=" + Y +
+                '}';
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Shape)) return false;
+
+        Shape shape = (Shape) o;
+
+        if (getX() != shape.getX()) return false;
+        return getY() == shape.getY();
+
+    }
+
+    @Override
     public int hashCode() {
-        return (getX() * 7) + (getY() * 13);
+        int result = getX();
+        result = 31 * result + getY();
+        return result;
     }
 }

@@ -38,7 +38,13 @@ public class IsoScalesTriangle extends Triangle {
     }
 
     @Override
-    public int hashCode() {
-        return super.hashCode() + (getPerpendicular() * 53);
+    public String toString() {
+        return "Isoscales Triangle{" +
+                "Height=" + getHeight() +
+                ", Width=" + getWidth() +
+                ", Perpendicular=" + getPerpendicular() +
+                ", X=" + getX() +
+                ", Y=" + getY() +
+                '}';
     }
 }

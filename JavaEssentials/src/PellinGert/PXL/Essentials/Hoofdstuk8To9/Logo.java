@@ -48,12 +48,32 @@ public class Logo {
     }
 
     @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Logo)) return false;
+
+        Logo logo = (Logo) o;
+
+        if (!Circles.equals(logo.Circles)) return false;
+        if (!Rectangles.equals(logo.Rectangles)) return false;
+        return getText().equals(logo.getText());
+
+    }
+
+    @Override
     public int hashCode() {
-        int hash = super.hashCode();
-        for (Circle circle : this.getCircle())
-            hash += circle.hashCode();
-        for (Rectangle rectangle : this.getRectangle())
-            hash += rectangle.hashCode();
-        return hash;
+        int result = Circles.hashCode();
+        result = 31 * result + Rectangles.hashCode();
+        result = 31 * result + getText().hashCode();
+        return result;
+    }
+
+    @Override
+    public String toString() {
+        return "Logo{" +
+                "Circles=" + Circles.size() +
+                ", Rectangles=" + Rectangles.size() +
+                ", Text='" + Text + '\'' +
+                '}';
     }
 }

@@ -79,7 +79,36 @@ public class Triangle extends Shape {
     }
 
     @Override
+    public String toString() {
+        return "Triangle{" +
+                "Height=" + Height +
+                ", Width=" + Width +
+                ", Perpendicular=" + Perpendicular +
+                "X=" + getX() +
+                ", Y=" + getY() +
+                '}';
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Triangle)) return false;
+        if (!super.equals(o)) return false;
+
+        Triangle triangle = (Triangle) o;
+
+        if (getHeight() != triangle.getHeight()) return false;
+        if (getWidth() != triangle.getWidth()) return false;
+        return getPerpendicular() == triangle.getPerpendicular();
+
+    }
+
+    @Override
     public int hashCode() {
-        return super.hashCode() + (getPerpendicular() * 19);
+        int result = super.hashCode();
+        result = 31 * result + getHeight();
+        result = 31 * result + getWidth();
+        result = 31 * result + getPerpendicular();
+        return result;
     }
 }

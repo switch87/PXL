@@ -33,7 +33,13 @@ public class EquilateralTriangles extends IsoScalesTriangle {
     }
 
     @Override
-    public int hashCode() {
-        return super.hashCode() + (getWidth() * 59);
+    public String toString() {
+        return "Equilateral Triangle{" +
+                "Height=" + getHeight() +
+                ", Width=" + getWidth() +
+                ", Perpendicular=" + getPerpendicular() +
+                ", X=" + getX() +
+                ", Y=" + getY() +
+                '}';
     }
 }

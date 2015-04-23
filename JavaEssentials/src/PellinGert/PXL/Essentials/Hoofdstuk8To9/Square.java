@@ -52,8 +52,15 @@ public class Square extends Rectangle {
         return super.getDescription() + " (" + Description + ")";
     }
 
+
+
     @Override
-    public int hashCode() {
-        return super.hashCode() + (getSide() * 31);
+    public String toString() {
+        return "Square{" +
+                "Height=" + getHeight() +
+                ", Width=" + getWidth() +
+                ", X=" + getX() +
+                ", Y=" + getY() +
+                '}';
     }
 }

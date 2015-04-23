@@ -7,7 +7,7 @@ public class Rectangle extends Shape {
     private static final String Description = "Rectangle";
     private static final int ANGLES = 4;
     private static int Count = 0;
-    private int Height, Width, X, Y;
+    private int Height, Width;
 
     public Rectangle(int Height, int Width, int x, int y) {
         super(x, y);
@@ -74,7 +74,33 @@ public class Rectangle extends Shape {
     }
 
     @Override
+    public String toString() {
+        return "Rectangle{" +
+                "Height=" + Height +
+                ", Width=" + Width +
+                ", X=" + getX() +
+                ", Y=" + getY() +
+                '}';
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Rectangle)) return false;
+        if (!super.equals(o)) return false;
+
+        Rectangle rectangle = (Rectangle) o;
+
+        if (getHeight() != rectangle.getHeight()) return false;
+        return getWidth() == rectangle.getWidth();
+
+    }
+
+    @Override
     public int hashCode() {
-        return super.hashCode() + (getHeight() * 17) + (getWidth() * 23);
+        int result = super.hashCode();
+        result = 31 * result + getHeight();
+        result = 31 * result + getWidth();
+        return result;
     }
 }
