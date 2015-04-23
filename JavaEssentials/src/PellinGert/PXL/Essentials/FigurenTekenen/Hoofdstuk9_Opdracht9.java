@@ -1,7 +1,7 @@
 package PellinGert.PXL.Essentials.FigurenTekenen;
 
-import java.awt.*;
 import java.util.ArrayList;
+import PellinGert.PXL.Essentials.FigurenTekenen.Shapes.*;
 
 /**
  * Created by gp on 23/04/15.

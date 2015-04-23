@@ -30,86 +30,86 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shape.java">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
               <folding>
                 <element signature="docComment;class#Shape#0" expanded="false" />
                 <element signature="method#Shape#0;class#Shape#0" expanded="false" />
-                <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#480#481#0" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="IsoScalesTriangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/IsoScalesTriangle.java">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/IsoScalesTriangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
               <folding>
-                <element signature="e#445#446#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#734#735#0" expanded="true" />
-                <element signature="e#771#772#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#778#779#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="RightAngledTriangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/RightAngledTriangle.java">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/RightAngledTriangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding>
-                <element signature="e#445#446#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#659#660#0" expanded="true" />
-                <element signature="e#687#688#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#666#667#0" expanded="true" />
+                <element signature="e#694#695#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Rectangle.java">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="86" column="37" selection-start-line="86" selection-start-column="37" selection-end-line="86" selection-end-column="37" />
               <folding>
                 <element signature="method#Rectangle#0;class#Rectangle#0" expanded="false" />
-                <element signature="e#1403#1404#0" expanded="true" />
-                <element signature="e#1429#1430#0" expanded="true" />
+                <element signature="e#1410#1411#0" expanded="true" />
+                <element signature="e#1436#1437#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Circle.java">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
-                <element signature="e#1186#1187#0" expanded="true" />
-                <element signature="e#1238#1239#0" expanded="true" />
+                <element signature="e#1193#1194#0" expanded="true" />
+                <element signature="e#1245#1246#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hoofdstuk9_Opdracht9.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Hoofdstuk9_Opdracht9.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Hoofdstuk9_Opdracht9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8181818">
-              <caret line="46" column="103" selection-start-line="46" selection-start-column="103" selection-end-line="46" selection-end-column="103" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="31" column="48" selection-start-line="10" selection-start-column="8" selection-end-line="31" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,47 +117,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Square.java">
+      <file leaf-file-name="DrawingApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/DrawingApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5332168">
+              <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
               <folding>
-                <element signature="method#Square#0;class#Square#0" expanded="false" />
-                <element signature="e#628#629#0" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#981#982#0" expanded="true" />
-                <element signature="e#1053#1054#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Logo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Logo.java">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Logo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
               <folding>
-                <element signature="e#742#743#0" expanded="true" />
-                <element signature="e#781#782#0" expanded="true" />
-                <element signature="e#812#813#0" expanded="true" />
-                <element signature="e#839#840#0" expanded="true" />
-                <element signature="e#879#880#0" expanded="true" />
-                <element signature="e#906#907#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#788#789#0" expanded="true" />
+                <element signature="e#819#820#0" expanded="true" />
+                <element signature="e#846#847#0" expanded="true" />
+                <element signature="e#886#887#0" expanded="true" />
+                <element signature="e#913#914#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Drawing.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Drawing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="EquilateralTriangles.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/EquilateralTriangles.java">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/EquilateralTriangles.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
               <folding>
-                <element signature="e#749#750#0" expanded="true" />
-                <element signature="e#786#787#0" expanded="true" />
+                <element signature="e#756#757#0" expanded="true" />
+                <element signature="e#793#794#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -198,7 +214,12 @@
         <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Hoofdstuk8/Circle.java" />
         <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Circle.java" />
         <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Opdracht12.java" />
+        <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/Shapes/FigurenTekenen/Hoofdstuk9_Opdracht9.java" />
+        <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Hoofdstuk9_Opdracht9.java" />
         <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Hoofdstuk9_Opdracht9.java" />
+        <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Drawing.java" />
+        <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/DrawingApp.java" />
+        <option value="$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/DrawingApp.java" />
       </list>
     </option>
   </component>
@@ -335,6 +356,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEssentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEssentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Essentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FigurenTekenen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shapes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -356,7 +403,13 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Hoofdstuk9_Opdracht9">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PellinGert.PXL.Essentials.FigurenTekenen" />
+      <recent name="PellinGert.PXL.Essentials.FigurenTekenen.Shapes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DrawingApp">
     <configuration default="false" name="RectangleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -370,26 +423,6 @@
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaEssentials" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="TriangleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="PellinGert.PXL.Essentials.FigurenTekenen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="PellinGert.PXL.Essentials.FigurenTekenen.TriangleApp" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -445,6 +478,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="PellinGert.PXL.Essentials.FigurenTekenen.Hoofdstuk9_Opdracht9" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaEssentials" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DrawingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="PellinGert.PXL.Essentials.FigurenTekenen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="PellinGert.PXL.Essentials.FigurenTekenen.DrawingApp" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -703,18 +756,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.RectangleApp" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TriangleApp" />
-      <item index="2" class="java.lang.String" itemvalue="Application.opdracht7" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PriemgetallenMetArray" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Hoofdstuk9_Opdracht9" />
+      <item index="1" class="java.lang.String" itemvalue="Application.opdracht7" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PriemgetallenMetArray" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Hoofdstuk9_Opdracht9" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DrawingApp" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Hoofdstuk9_Opdracht9" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RectangleApp" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PriemgetallenMetArray" />
-        <item index="3" class="java.lang.String" itemvalue="Application.opdracht7" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TriangleApp" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DrawingApp" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Hoofdstuk9_Opdracht9" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RectangleApp" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PriemgetallenMetArray" />
+        <item index="4" class="java.lang.String" itemvalue="Application.opdracht7" />
       </list>
     </recent_temporary>
   </component>
@@ -746,7 +799,7 @@
       <workItem from="1429616893259" duration="840000" />
       <workItem from="1429771598712" duration="293000" />
       <workItem from="1429771995444" duration="652000" />
-      <workItem from="1429808105463" duration="6332000" />
+      <workItem from="1429808105463" duration="7396000" />
     </task>
     <task id="LOCAL-00001" summary="triangle">
       <created>1429562072420</created>
@@ -770,7 +823,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19807000" />
+    <option name="totallyTimeSpent" value="20871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3042" y="24" width="1400" height="1000" extended-state="0" />
@@ -795,7 +848,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24892396" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39977852" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3366556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3366556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -846,379 +899,379 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Triangle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="82" column="57" selection-start-line="82" selection-start-column="57" selection-end-line="82" selection-end-column="57" />
           <folding>
             <element signature="method#Triangle#0;class#Triangle#0" expanded="false" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#1321#1322#0" expanded="true" />
-            <element signature="e#1357#1358#0" expanded="true" />
-            <element signature="e#1560#1561#0" expanded="true" />
-            <element signature="e#1611#1612#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#1328#1329#0" expanded="true" />
+            <element signature="e#1364#1365#0" expanded="true" />
+            <element signature="e#1567#1568#0" expanded="true" />
+            <element signature="e#1618#1619#0" expanded="true" />
             <element signature="method#getPerimeter#0;class#Triangle#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/RightAngledTriangle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/RightAngledTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="77" column="68" selection-start-line="77" selection-start-column="68" selection-end-line="77" selection-end-column="68" />
           <folding>
             <element signature="method#Rectangle#0;class#Rectangle#0" expanded="false" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1436#1437#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Square.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Square.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="method#Square#0;class#Square#0" expanded="false" />
-            <element signature="e#628#629#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#981#982#0" expanded="true" />
-            <element signature="e#1053#1054#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1060#1061#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="69" column="50" selection-start-line="47" selection-start-column="26" selection-end-line="48" selection-end-column="8" />
           <folding>
-            <element signature="e#1186#1187#0" expanded="true" />
-            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+            <element signature="e#1245#1246#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/IsoScalesTriangle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/IsoScalesTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/EquilateralTriangles.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/EquilateralTriangles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="36" column="31" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="32" />
           <folding>
-            <element signature="e#749#750#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="48" column="13" selection-start-line="46" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
           <folding>
             <element signature="method#Rectangle#0;class#Rectangle#0" expanded="false" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1436#1437#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Logo.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Logo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
           <folding>
-            <element signature="e#1186#1187#0" expanded="true" />
-            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+            <element signature="e#1245#1246#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shape.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
           <folding>
             <element signature="docComment;class#Shape#0" expanded="false" />
             <element signature="method#Shape#0;class#Shape#0" expanded="false" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Triangle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
           <folding>
             <element signature="method#Triangle#0;class#Triangle#0" expanded="false" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#1321#1322#0" expanded="true" />
-            <element signature="e#1357#1358#0" expanded="true" />
-            <element signature="e#1560#1561#0" expanded="true" />
-            <element signature="e#1611#1612#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#1328#1329#0" expanded="true" />
+            <element signature="e#1364#1365#0" expanded="true" />
+            <element signature="e#1567#1568#0" expanded="true" />
+            <element signature="e#1618#1619#0" expanded="true" />
             <element signature="method#getPerimeter#0;class#Triangle#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding>
             <element signature="method#Rectangle#0;class#Rectangle#0" expanded="false" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1436#1437#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Logo.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Logo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
           <folding>
-            <element signature="e#1186#1187#0" expanded="true" />
-            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+            <element signature="e#1245#1246#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shape.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
           <folding>
             <element signature="docComment;class#Shape#0" expanded="false" />
             <element signature="method#Shape#0;class#Shape#0" expanded="false" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Triangle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
           <folding>
             <element signature="method#Triangle#0;class#Triangle#0" expanded="false" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#1321#1322#0" expanded="true" />
-            <element signature="e#1357#1358#0" expanded="true" />
-            <element signature="e#1560#1561#0" expanded="true" />
-            <element signature="e#1611#1612#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#1328#1329#0" expanded="true" />
+            <element signature="e#1364#1365#0" expanded="true" />
+            <element signature="e#1567#1568#0" expanded="true" />
+            <element signature="e#1618#1619#0" expanded="true" />
             <element signature="method#getPerimeter#0;class#Triangle#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding>
             <element signature="method#Rectangle#0;class#Rectangle#0" expanded="false" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1436#1437#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Logo.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Logo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
           <folding>
-            <element signature="e#1186#1187#0" expanded="true" />
-            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+            <element signature="e#1245#1246#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shape.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
           <folding>
             <element signature="docComment;class#Shape#0" expanded="false" />
             <element signature="method#Shape#0;class#Shape#0" expanded="false" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Triangle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
           <folding>
             <element signature="method#Triangle#0;class#Triangle#0" expanded="false" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#1321#1322#0" expanded="true" />
-            <element signature="e#1357#1358#0" expanded="true" />
-            <element signature="e#1560#1561#0" expanded="true" />
-            <element signature="e#1611#1612#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#1328#1329#0" expanded="true" />
+            <element signature="e#1364#1365#0" expanded="true" />
+            <element signature="e#1567#1568#0" expanded="true" />
+            <element signature="e#1618#1619#0" expanded="true" />
             <element signature="method#getPerimeter#0;class#Triangle#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding>
             <element signature="method#Rectangle#0;class#Rectangle#0" expanded="false" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1436#1437#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Logo.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Logo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
           <folding>
-            <element signature="e#1186#1187#0" expanded="true" />
-            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+            <element signature="e#1245#1246#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shape.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
           <folding>
             <element signature="docComment;class#Shape#0" expanded="false" />
             <element signature="method#Shape#0;class#Shape#0" expanded="false" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Triangle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="method#Triangle#0;class#Triangle#0" expanded="false" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#1321#1322#0" expanded="true" />
-            <element signature="e#1357#1358#0" expanded="true" />
-            <element signature="e#1560#1561#0" expanded="true" />
-            <element signature="e#1611#1612#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#1328#1329#0" expanded="true" />
+            <element signature="e#1364#1365#0" expanded="true" />
+            <element signature="e#1567#1568#0" expanded="true" />
+            <element signature="e#1618#1619#0" expanded="true" />
             <element signature="method#getPerimeter#0;class#Triangle#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding>
             <element signature="method#Rectangle#0;class#Rectangle#0" expanded="false" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1436#1437#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Logo.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Logo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
           <folding>
-            <element signature="e#1186#1187#0" expanded="true" />
-            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+            <element signature="e#1245#1246#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1231,84 +1284,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Triangle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="92" column="37" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
           <folding>
             <element signature="method#Triangle#0;class#Triangle#0" expanded="false" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#1321#1322#0" expanded="true" />
-            <element signature="e#1357#1358#0" expanded="true" />
-            <element signature="e#1560#1561#0" expanded="true" />
-            <element signature="e#1611#1612#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#1328#1329#0" expanded="true" />
+            <element signature="e#1364#1365#0" expanded="true" />
+            <element signature="e#1567#1568#0" expanded="true" />
+            <element signature="e#1618#1619#0" expanded="true" />
             <element signature="method#getPerimeter#0;class#Triangle#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Square.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Square.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
           <folding>
             <element signature="method#Square#0;class#Square#0" expanded="false" />
-            <element signature="e#628#629#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#981#982#0" expanded="true" />
-            <element signature="e#1053#1054#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1060#1061#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/RightAngledTriangle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/RightAngledTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <folding>
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="86" column="37" selection-start-line="86" selection-start-column="37" selection-end-line="86" selection-end-column="37" />
           <folding>
             <element signature="method#Rectangle#0;class#Rectangle#0" expanded="false" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1436#1437#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Logo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
-          <folding>
-            <element signature="e#742#743#0" expanded="true" />
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#812#813#0" expanded="true" />
-            <element signature="e#839#840#0" expanded="true" />
-            <element signature="e#879#880#0" expanded="true" />
-            <element signature="e#906#907#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/EquilateralTriangles.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/EquilateralTriangles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding>
-            <element signature="e#749#750#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1337,51 +1375,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shape.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
           <folding>
             <element signature="docComment;class#Shape#0" expanded="false" />
             <element signature="method#Shape#0;class#Shape#0" expanded="false" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#1186#1187#0" expanded="true" />
-            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+            <element signature="e#1245#1246#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/IsoScalesTriangle.java">
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/IsoScalesTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
           <folding>
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Shapes/Logo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+          <folding>
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Hoofdstuk9_Opdracht9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8181818">
-          <caret line="46" column="103" selection-start-line="46" selection-start-column="103" selection-end-line="46" selection-end-column="103" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="48" selection-start-line="10" selection-start-column="8" selection-end-line="31" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/Drawing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/Essentials/FigurenTekenen/DrawingApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5332168">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -1,4 +1,4 @@
-package PellinGert.PXL.Essentials.FigurenTekenen;
+package PellinGert.PXL.Essentials.FigurenTekenen.Shapes;
 
 /**
  * Created by net04 on 21/04/2015.

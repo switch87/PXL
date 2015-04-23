@@ -1,4 +1,4 @@
-package PellinGert.PXL.Essentials.FigurenTekenen;
+package PellinGert.PXL.Essentials.FigurenTekenen.Shapes;
 
 import java.util.ArrayList;
 
