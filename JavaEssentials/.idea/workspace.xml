@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd8600e4-f2ac-405e-a9bf-3958e9c25658" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaEssentials.iws" />
@@ -189,7 +188,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -799,7 +798,7 @@
       <workItem from="1429616893259" duration="840000" />
       <workItem from="1429771598712" duration="293000" />
       <workItem from="1429771995444" duration="652000" />
-      <workItem from="1429808105463" duration="9075000" />
+      <workItem from="1429808105463" duration="9097000" />
     </task>
     <task id="LOCAL-00001" summary="triangle">
       <created>1429562072420</created>
@@ -819,11 +818,17 @@
       <option name="project" value="LOCAL" />
       <updated>1429772059100</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="iest van idea">
+      <created>1429819540825</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1429819540825</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22550000" />
+    <option name="totallyTimeSpent" value="22572000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3042" y="24" width="1400" height="1000" extended-state="0" />
@@ -871,7 +876,8 @@
     <MESSAGE value="triangle" />
     <MESSAGE value="verschillende soorten driehoek toegevoegd" />
     <MESSAGE value="hashcodes, nog niet 100%" />
-    <option name="LAST_COMMIT_MESSAGE" value="hashcodes, nog niet 100%" />
+    <MESSAGE value="iest van idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="iest van idea" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
