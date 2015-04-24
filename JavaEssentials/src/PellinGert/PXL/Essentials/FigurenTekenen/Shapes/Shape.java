@@ -4,13 +4,13 @@ package PellinGert.PXL.Essentials.FigurenTekenen.Shapes;
  * Created by gert on 5/04/2015.
  */
 public abstract class Shape {
-    private static int Count = 0;
-    private int X, Y;
+    private static int count = 0;
+    private int x, y;
 
     public Shape(int x, int y) {
         setX(x);
         setY(y);
-        Count++;
+        count++;
     }
 
     public Shape() {
@@ -18,23 +18,23 @@ public abstract class Shape {
     }
 
     public static int getCount() {
-        return Count;
+        return count;
     }
 
     public int getX() {
-        return X;
+        return x;
     }
 
     public void setX(int x) {
-        X = x;
+        this.x = x;
     }
 
     public int getY() {
-        return Y;
+        return y;
     }
 
     public void setY(int y) {
-        Y = y;
+        this.y = y;
     }
 
     public void setPosition(int x, int y) {
@@ -49,8 +49,8 @@ public abstract class Shape {
     @Override
     public String toString() {
         return "Shape{" +
-                "X=" + X +
-                ", Y=" + Y +
+                "X=" + x +
+                ", Y=" + y +
                 '}';
     }
 

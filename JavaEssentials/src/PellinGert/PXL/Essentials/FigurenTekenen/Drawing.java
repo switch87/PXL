@@ -10,21 +10,49 @@ import java.util.ArrayList;
  */
 public class Drawing {
 
-    private ArrayList<Shape> Shapes = new ArrayList<>();
+    private Shape shapes[] = new Shape[100];
 
     public void add(Shape shape) {
-        Shapes.add(shape);
+        if (isPresent(shape)) {
+            shapes[getSize()] = shape;
+        }
+        else System.out.println("Shape is already present");
     }
 
     public void remove(Shape shape) {
-        Shapes.remove(shape);
+        int shapeIndex=indexOf(shape);
+
     }
 
     public void clear() {
-        Shapes.clear();
+        for (int i = 0; i < this.getSize(); i++) {
+            shapes[i]=null;
+        }
+    }
+
+
+    // voorlopig altijd false! Te veranderen!!!!
+    public boolean equals(Shape shape) {
+        return false;
     }
 
     public int getSize() {
-        return Shapes.size();
+        return shapes.length;
+    }
+
+    private boolean isPresent(Shape shape)
+    {
+        for (int i = 0; i < this.getSize(); i++) {
+            if (shape.equals(shapes[i])) return true;
+        }
+        return false;
+    }
+
+    public Integer indexOf(Shape shape)
+    {
+        for (int i = 0; i < this.getSize(); i++) {
+            if (shape.equals(shapes[i])) return i;
+        }
+        return null;
     }
 }

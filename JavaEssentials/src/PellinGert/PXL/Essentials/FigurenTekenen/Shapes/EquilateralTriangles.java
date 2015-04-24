@@ -4,11 +4,11 @@ package PellinGert.PXL.Essentials.FigurenTekenen.Shapes;
  * Created by net04 on 21/04/2015.
  */
 public class EquilateralTriangles extends IsoScalesTriangle {
-    private static int Count = 0;
+    private static int count = 0;
 
     public EquilateralTriangles(int width, int x, int y) {
         super(width, (int) Math.sqrt(Math.pow(width, 2) - Math.pow(width / 2, 2)), x, y);
-        Count++;
+        count++;
     }
 
     public EquilateralTriangles(int width) {
@@ -24,7 +24,7 @@ public class EquilateralTriangles extends IsoScalesTriangle {
     }
 
     public static int getCount() {
-        return Count;
+        return count;
     }
 
     @Override

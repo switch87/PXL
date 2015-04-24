@@ -5,16 +5,16 @@ package PellinGert.PXL.Essentials.FigurenTekenen.Shapes;
  */
 public class Triangle extends Shape {
     private static final int ANGLES = 3;
-    private static final String Description = "triangle";
-    private static int Count = 0;
-    private int Height, Width, Perpendicular;
+    private static final String description = "triangle";
+    private static int count = 0;
+    private int height, width, perpendicular;
 
     public Triangle(int width, int height, int perpendicular, int x, int y) {
         super(x, y);
         setHeight(height);
         setWidth(width);
         setPerpendicular(perpendicular);
-        Count++;
+        count++;
     }
 
     public Triangle(int width, int height, int perpendicular) {
@@ -34,31 +34,31 @@ public class Triangle extends Shape {
     }
 
     public static int getCount() {
-        return Count;
+        return count;
     }
 
     public int getHeight() {
-        return Height;
+        return height;
     }
 
     public void setHeight(int height) {
-        Height = height < 0 ? -height : height;
+        this.height = height < 0 ? -height : height;
     }
 
     public int getWidth() {
-        return Width;
+        return width;
     }
 
     public void setWidth(int width) {
-        Width = width < 0 ? -width : width;
+        this.width = width < 0 ? -width : width;
     }
 
     public int getPerpendicular() {
-        return Perpendicular;
+        return perpendicular;
     }
 
     public void setPerpendicular(int perpendicular) {
-        Perpendicular = perpendicular > getWidth() ? getWidth() - perpendicular : perpendicular;
+        this.perpendicular = perpendicular > getWidth() ? getWidth() - perpendicular : perpendicular;
     }
 
     @Override
@@ -74,16 +74,16 @@ public class Triangle extends Shape {
     }
 
     public void grow(int growH, int growW) {
-        Height += (growH < -Height ? -Height : growH);
-        Width += (growW < -Width ? -Width : growW);
+        height += (growH < -height ? -height : growH);
+        width += (growW < -width ? -width : growW);
     }
 
     @Override
     public String toString() {
         return "Triangle{" +
-                "Height=" + Height +
-                ", Width=" + Width +
-                ", Perpendicular=" + Perpendicular +
+                "Height=" + height +
+                ", Width=" + width +
+                ", Perpendicular=" + perpendicular +
                 "X=" + getX() +
                 ", Y=" + getY() +
                 '}';

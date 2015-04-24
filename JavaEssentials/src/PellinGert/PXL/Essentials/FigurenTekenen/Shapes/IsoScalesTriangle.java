@@ -4,11 +4,11 @@ package PellinGert.PXL.Essentials.FigurenTekenen.Shapes;
  * Created by net04 on 21/04/2015.
  */
 public class IsoScalesTriangle extends Triangle {
-    private static int Count = 0;
+    private static int count = 0;
 
     public IsoScalesTriangle(int width, int height, int x, int y) {
         super(width, height, width / 2, x, y);
-        Count++;
+        count++;
     }
 
     public IsoScalesTriangle(int width, int height) {
@@ -24,7 +24,7 @@ public class IsoScalesTriangle extends Triangle {
     }
 
     public static int getCount() {
-        return Count;
+        return count;
     }
 
     @Override

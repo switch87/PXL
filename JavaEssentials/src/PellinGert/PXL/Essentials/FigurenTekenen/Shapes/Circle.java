@@ -6,14 +6,14 @@ package PellinGert.PXL.Essentials.FigurenTekenen.Shapes;
 public class Circle extends Shape {
 
     private static final int ANGLES = 0;
-    private static final String Description = "circle";
-    private static int Count = 0;
-    private int Radius;
+    private static final String description = "circle";
+    private static int count = 0;
+    private int radius;
 
     public Circle(int Radius, int x, int y) {
         super(x, y);
         setRadius(Radius);
-        Count++;
+        count++;
     }
 
     public Circle(int Radius) {
@@ -33,19 +33,19 @@ public class Circle extends Shape {
     }
 
     public static int getCount() {
-        return Count;
+        return count;
     }
 
     public String getDescription() {
-        return Description;
+        return description;
     }
 
     public int getRadius() {
-        return Radius;
+        return radius;
     }
 
     public void setRadius(int Radius) {
-        this.Radius = Radius < 0 ? -Radius : Radius;
+        this.radius = Radius < 0 ? -Radius : Radius;
     }
 
     public double getArea() {
@@ -63,7 +63,7 @@ public class Circle extends Shape {
     @Override
     public String toString() {
         return "Circle{" +
-                "Radius=" + Radius +
+                "Radius=" + radius +
                 ", X=" + getX() +
                 ", Y=" + getY() +
                 "} ";

@@ -6,9 +6,9 @@ import java.util.ArrayList;
  * Created by gert on 4/04/2015.
  */
 public class Logo {
-    private ArrayList<Circle> Circles;
-    private ArrayList<Rectangle> Rectangles;
-    private String Text;
+    private ArrayList<Circle> circles;
+    private ArrayList<Rectangle> rectangles;
+    private String text;
 
     public Logo(ArrayList<Circle> Circles, ArrayList<Rectangle> Rectangles, String Text) {
         setCircle(Circles);
@@ -17,33 +17,33 @@ public class Logo {
     }
 
     public ArrayList<Circle> getCircle() {
-        return Circles;
+        return circles;
     }
 
     public void setCircle(ArrayList<Circle> circles) {
-        Circles = circles;
+        circles = circles;
     }
 
     public ArrayList<Rectangle> getRectangle() {
-        return Rectangles;
+        return rectangles;
     }
 
     public void setRectangle(ArrayList<Rectangle> rectangles) {
-        Rectangles = rectangles;
+        rectangles = rectangles;
     }
 
     public String getText() {
-        return Text;
+        return text;
     }
 
     public void setText(String text) {
-        Text = text;
+        text = text;
     }
 
     public double getArea() {
         double Area = 0;
-        for (Circle circle : Circles) Area += circle.getArea();
-        for (Rectangle rectangle : Rectangles) Area += rectangle.getArea();
+        for (Circle circle : circles) Area += circle.getArea();
+        for (Rectangle rectangle : rectangles) Area += rectangle.getArea();
         return Area;
     }
 
@@ -54,16 +54,16 @@ public class Logo {
 
         Logo logo = (Logo) o;
 
-        if (!Circles.equals(logo.Circles)) return false;
-        if (!Rectangles.equals(logo.Rectangles)) return false;
+        if (!circles.equals(logo.circles)) return false;
+        if (!rectangles.equals(logo.rectangles)) return false;
         return getText().equals(logo.getText());
 
     }
 
     @Override
     public int hashCode() {
-        int result = Circles.hashCode();
-        result = 31 * result + Rectangles.hashCode();
+        int result = circles.hashCode();
+        result = 31 * result + rectangles.hashCode();
         result = 31 * result + getText().hashCode();
         return result;
     }
@@ -71,9 +71,9 @@ public class Logo {
     @Override
     public String toString() {
         return "Logo{" +
-                "Circles=" + Circles.size() +
-                ", Rectangles=" + Rectangles.size() +
-                ", Text='" + Text + '\'' +
+                "Circles=" + circles.size() +
+                ", Rectangles=" + rectangles.size() +
+                ", Text='" + text + '\'' +
                 '}';
     }
 }

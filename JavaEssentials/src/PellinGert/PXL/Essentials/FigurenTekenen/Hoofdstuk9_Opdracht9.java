@@ -8,19 +8,19 @@ import PellinGert.PXL.Essentials.FigurenTekenen.Shapes.*;
  */
 public class Hoofdstuk9_Opdracht9 {
     public static void main(String[] args) {
-        ArrayList<Shape> Shapes = new ArrayList<>();
-        Shapes.add(new Circle(5,5,5));
-        Shapes.add(new Rectangle(5,8,7,1));
-        Shapes.add(new Square(8,5,4));
-        Shapes.add(new Square(((Square) Shapes.get(2))));
-        Shapes.add(new Rectangle());
-        Shapes.add(new Square(8));
-        Shapes.add(new Square());
-        Shapes.add(new Circle());
-        Shapes.add(new IsoScalesTriangle(8,5));
-        Shapes.add(new EquilateralTriangles(7));
+        ArrayList<Shape> shapes = new ArrayList<>();
+        shapes.add(new Circle(5,5,5));
+        shapes.add(new Rectangle(5,8,7,1));
+        shapes.add(new Square(8,5,4));
+        shapes.add(new Square(((Square) shapes.get(2))));
+        shapes.add(new Rectangle());
+        shapes.add(new Square(8));
+        shapes.add(new Square());
+        shapes.add(new Circle());
+        shapes.add(new IsoScalesTriangle(8,5));
+        shapes.add(new EquilateralTriangles(7));
 
-        for (Shape shape : Shapes)
+        for (Shape shape : shapes)
         {
             System.out.print("X: " + shape.getX() + ", Y: " + shape.getY()+
                         ", Omtrek: " + shape.getPerimeter() + ", Oppervlakte: "+shape.getArea());
@@ -42,7 +42,7 @@ public class Hoofdstuk9_Opdracht9 {
             System.out.println();
         }
         System.out.println("\n2de manier:\n");
-        for (Shape shape : Shapes) {
+        for (Shape shape : shapes) {
             System.out.println(shape.toString());
             System.out.println("Omtrek: " + shape.getPerimeter() + ", Oppervlakte: " + shape.getArea()+"\n");
         }

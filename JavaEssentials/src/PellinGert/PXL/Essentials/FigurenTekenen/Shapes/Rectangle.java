@@ -4,20 +4,20 @@ package PellinGert.PXL.Essentials.FigurenTekenen.Shapes;
  * Created by gert on 4/04/2015.
  */
 public class Rectangle extends Shape {
-    private static final String Description = "Rectangle";
+    private static final String description = "Rectangle";
     private static final int ANGLES = 4;
-    private static int Count = 0;
-    private int Height, Width;
+    private static int count = 0;
+    private int height, width;
 
-    public Rectangle(int Height, int Width, int x, int y) {
+    public Rectangle(int height, int width, int x, int y) {
         super(x, y);
-        setHeight(Height);
-        setWidth(Width);
-        Count++;
+        setHeight(height);
+        setWidth(width);
+        count++;
     }
 
-    public Rectangle(int Height, int Width) {
-        this(Height, Width, 0, 0);
+    public Rectangle(int height, int width) {
+        this(height, width, 0, 0);
     }
 
     public Rectangle() {
@@ -29,7 +29,7 @@ public class Rectangle extends Shape {
     }
 
     public static int getCount() {
-        return Count;
+        return count;
     }
 
     public static int getAngles() {
@@ -37,31 +37,31 @@ public class Rectangle extends Shape {
     }
 
     public String getDescription() {
-        return Description;
+        return description;
     }
 
     public double getArea() {
-        return Height * Width;
+        return height * width;
     }
 
     public double getPerimeter() {
-        return 2 * (Height + Width);
+        return 2 * (height + width);
     }
 
     public int getHeight() {
-        return Height;
+        return height;
     }
 
     public void setHeight(int height) {
-        Height = height < 0 ? -height : height;
+        this.height = height < 0 ? -height : height;
     }
 
     public int getWidth() {
-        return Width;
+        return width;
     }
 
     public void setWidth(int width) {
-        Width = width < 0 ? -width : width;
+        this.width = width < 0 ? -width : width;
     }
 
     public void grow(int d) {
@@ -69,15 +69,15 @@ public class Rectangle extends Shape {
     }
 
     public void grow(int growH, int growW) {
-        Height += (growH < -Height ? -Height : growH);
-        Width += (growW < -Width ? -Width : growW);
+        height += (growH < -height ? -height : growH);
+        width += (growW < -width ? -width : growW);
     }
 
     @Override
     public String toString() {
         return "Rectangle{" +
-                "Height=" + Height +
-                ", Width=" + Width +
+                "Height=" + height +
+                ", Width=" + width +
                 ", X=" + getX() +
                 ", Y=" + getY() +
                 '}';

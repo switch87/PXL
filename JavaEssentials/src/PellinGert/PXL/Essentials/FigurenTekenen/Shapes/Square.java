@@ -5,15 +5,15 @@ package PellinGert.PXL.Essentials.FigurenTekenen.Shapes;
  */
 public class Square extends Rectangle {
     private static final String Description = "square";
-    private static int Count = 0;
+    private static int count = 0;
 
-    public Square(int Side, int X, int Y) {
-        super(Side, Side, X, Y);
-        Count++;
+    public Square(int side, int x, int y) {
+        super(side, side, x, y);
+        count++;
     }
 
-    public Square(int Side) {
-        this(Side, 0, 0);
+    public Square(int side) {
+        this(side, 0, 0);
     }
 
     public Square() {
@@ -25,7 +25,7 @@ public class Square extends Rectangle {
     }
 
     public static int getCount() {
-        return Count;
+        return count;
     }
 
     public int getSide() {
