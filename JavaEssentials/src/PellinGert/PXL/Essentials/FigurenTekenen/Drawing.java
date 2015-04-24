@@ -11,10 +11,12 @@ import java.util.ArrayList;
 public class Drawing {
 
     private Shape shapes[] = new Shape[100];
+    private int size = 0;
 
     public void add(Shape shape) {
-        if (isPresent(shape)) {
+        if (!isPresent(shape)) {
             shapes[getSize()] = shape;
+            size++;
         }
         else System.out.println("Shape is already present");
     }
@@ -22,27 +24,31 @@ public class Drawing {
     public void remove(Shape shape) {
         int shapeIndex=indexOf(shape);
 
+        // aanmaken copie array en originele wissen
+        Shape shapesCopy[]=makeDuplicate();
+        clear();
+
+        // Alles shapes behalve de te verwijderen shape terugzetten
+        for (int i = 0; i < shapeIndex; i++) shapes[i]=shapesCopy[i];
+        for (int i = shapeIndex+1; i < size; i++) shapes[i-1]=shapesCopy[i];
+
+        size--;
     }
 
     public void clear() {
-        for (int i = 0; i < this.getSize(); i++) {
+        for (int i = 0; i < getSize(); i++) {
             shapes[i]=null;
+            size = 0;
         }
     }
 
-
-    // voorlopig altijd false! Te veranderen!!!!
-    public boolean equals(Shape shape) {
-        return false;
-    }
-
     public int getSize() {
-        return shapes.length;
+        return size;
     }
 
     private boolean isPresent(Shape shape)
     {
-        for (int i = 0; i < this.getSize(); i++) {
+        for (int i = 0; i < getSize(); i++) {
             if (shape.equals(shapes[i])) return true;
         }
         return false;
@@ -50,9 +56,18 @@ public class Drawing {
 
     public Integer indexOf(Shape shape)
     {
-        for (int i = 0; i < this.getSize(); i++) {
+        for (int i = 0; i < getSize(); i++) {
             if (shape.equals(shapes[i])) return i;
         }
         return null;
+    }
+
+    public Shape[] makeDuplicate()
+    {
+        Shape shapesDuplicate[]=new Shape[100];
+        for (int i = 0; i < getSize(); i++) {
+            shapesDuplicate[i]=shapes[i];
+        }
+        return shapesDuplicate;
     }
 }
