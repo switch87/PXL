@@ -1,9 +1,11 @@
-package PellinGert.PXL.Essentials.FigurenTekenen.Shapes;
+package PellinGert.PXL.essentials.figurentekenen.shapes;
+
+import java.awt.*;
 
 /**
  * Created by gert on 5/04/2015.
  */
-public class Triangle extends Shape {
+public class Triangle extends Shape{
     private static final int ANGLES = 3;
     private static final String description = "triangle";
     private static int count = 0;
@@ -29,7 +31,7 @@ public class Triangle extends Shape {
         this(other.getWidth(), other.getHeight(), other.getPerpendicular(), other.getX(), other.getY());
     }
 
-    public static int getANGLES() {
+    public static int getAngles() {
         return ANGLES;
     }
 
@@ -110,5 +112,16 @@ public class Triangle extends Shape {
         result = 31 * result + getWidth();
         result = 31 * result + getPerpendicular();
         return result;
+    }
+
+    @Override
+    public void Draw(Graphics g) {
+
+    }
+
+    @Override
+    public void scale(int factor) {
+        this.setWidth((this.width*factor)/100);
+        this.setHeight((this.height*factor)/100);
     }
 }

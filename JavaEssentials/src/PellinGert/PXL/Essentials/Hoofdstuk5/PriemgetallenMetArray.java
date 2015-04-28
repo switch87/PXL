@@ -1,6 +1,6 @@
 // Hoofdstuk 5 - Opdracht 14: Priemgetallan
 
-package PellinGert.PXL.Essentials.Hoofdstuk5;
+package PellinGert.PXL.essentials.Hoofdstuk5;
 
 import java.util.ArrayList;
 

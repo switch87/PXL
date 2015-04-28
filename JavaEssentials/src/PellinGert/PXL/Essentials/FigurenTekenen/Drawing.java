@@ -1,43 +1,47 @@
-package PellinGert.PXL.Essentials.FigurenTekenen;
+package PellinGert.PXL.essentials.figurentekenen;
 
-import PellinGert.PXL.Essentials.FigurenTekenen.Shapes.*;
+import PellinGert.PXL.essentials.figurentekenen.shapes.Drawable;
 
-import java.util.ArrayList;
+import java.awt.*;
 
 /**
  * Created by gp on 23/04/15.
  * Hoofdstuk 9: Opdracht 10
+ *
+ * Hoofdstuk 11: Opdracht 2
+ * Door de array van Shape naar Drawable om te zetten werkt toString niet meer,
+ * oplossing moet nog gezocht worden
  */
-public class Drawing {
+public class Drawing implements Drawable{
 
-    private Shape shapes[] = new Shape[100];
+    private Drawable drawables[] = new Drawable[100];
     private int size = 0;
 
-    public void add(Shape shape) {
-        if (!isPresent(shape)) {
-            shapes[getSize()] = shape;
+    public void add(Drawable drawable) {
+        if (!isPresent(drawable)) {
+            drawables[getSize()] = drawable;
             size++;
         }
         else System.out.println("Shape is already present");
     }
 
-    public void remove(Shape shape) {
-        int shapeIndex=indexOf(shape);
+    public void remove(Drawable drawable) {
+        int drawableIndex=indexOf(drawable);
 
         // aanmaken copie array en originele wissen
-        Shape shapesCopy[]=makeDuplicate();
+        Drawable drawablesCopy[]=makeDuplicate();
         clear();
 
-        // Alles shapes behalve de te verwijderen shape terugzetten
-        for (int i = 0; i < shapeIndex; i++) shapes[i]=shapesCopy[i];
-        for (int i = shapeIndex+1; i < size; i++) shapes[i-1]=shapesCopy[i];
+        // Alles drawables behalve de te verwijderen drawable terugzetten
+        for (int i = 0; i < drawableIndex; i++) drawables[i]=drawablesCopy[i];
+        for (int i = drawableIndex+1; i < size; i++) drawables[i-1]=drawablesCopy[i];
 
         size--;
     }
 
     public void clear() {
         for (int i = 0; i < getSize(); i++) {
-            shapes[i]=null;
+            drawables[i]=null;
             size = 0;
         }
     }
@@ -46,28 +50,53 @@ public class Drawing {
         return size;
     }
 
-    private boolean isPresent(Shape shape)
+    private boolean isPresent(Drawable drawable)
     {
         for (int i = 0; i < getSize(); i++) {
-            if (shape.equals(shapes[i])) return true;
+            if (drawable.equals(drawables[i])) return true;
         }
         return false;
     }
 
-    public Integer indexOf(Shape shape)
+    public Integer indexOf(Drawable drawable)     // Integer in plaats van int om NULLABLE type te bekomen
     {
         for (int i = 0; i < getSize(); i++) {
-            if (shape.equals(shapes[i])) return i;
+            if (drawable.equals(drawables[i])) return i;
         }
         return null;
     }
 
-    public Shape[] makeDuplicate()
+    public Drawable[] makeDuplicate()
     {
-        Shape shapesDuplicate[]=new Shape[100];
+        Drawable drawablesDuplicate[]=new Drawable[100];
         for (int i = 0; i < getSize(); i++) {
-            shapesDuplicate[i]=shapes[i];
+            drawablesDuplicate[i]=drawables[i];
         }
-        return shapesDuplicate;
+        return drawablesDuplicate;
+    }
+
+    @Override
+    public void Draw(Graphics g) {
+        for (Drawable drawable: drawables)
+        {
+            drawable.Draw(g);
+        }
+    }
+
+    @Override
+    public void scale(int factor) {
+        for (Drawable drawable: drawables)
+        {
+            drawable.scale(factor);
+        }
+    }
+
+    @Override
+    public String toString() {
+        String toString = "";
+        for (Drawable drawable : drawables) {
+            toString+=((Shape)drawable).toString();
+        }
+        return toString;
     }
 }

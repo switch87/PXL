@@ -1,4 +1,6 @@
-package PellinGert.PXL.Essentials.FigurenTekenen.Shapes;
+package PellinGert.PXL.essentials.figurentekenen.shapes;
+
+import java.awt.*;
 
 /**
  * Created by gert on 4/04/2015.
@@ -102,5 +104,16 @@ public class Rectangle extends Shape {
         result = 31 * result + getHeight();
         result = 31 * result + getWidth();
         return result;
+    }
+
+    @Override
+    public void Draw(Graphics g) {
+
+    }
+
+    @Override
+    public void scale(int factor) {
+        setHeight((height * factor) / 100);
+        setWidth((width * factor) / 100);
     }
 }

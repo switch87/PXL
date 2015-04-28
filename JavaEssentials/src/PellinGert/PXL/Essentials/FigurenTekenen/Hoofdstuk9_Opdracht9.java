@@ -1,7 +1,8 @@
-package PellinGert.PXL.Essentials.FigurenTekenen;
+package PellinGert.PXL.essentials.figurentekenen;
 
 import java.util.ArrayList;
-import PellinGert.PXL.Essentials.FigurenTekenen.Shapes.*;
+
+import PellinGert.PXL.essentials.figurentekenen.shapes.*;
 
 /**
  * Created by gp on 23/04/15.

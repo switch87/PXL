@@ -1,4 +1,4 @@
-package PellinGert.PXL.Essentials.FigurenTekenen.Shapes;
+package PellinGert.PXL.essentials.figurentekenen.shapes;
 
 /**
  * Created by gert on 4/04/2015.
@@ -62,5 +62,10 @@ public class Square extends Rectangle {
                 ", X=" + getX() +
                 ", Y=" + getY() +
                 '}';
+    }
+
+    @Override
+    public void scale(int factor) {
+        setSide((getSide()*factor)/100);
     }
 }

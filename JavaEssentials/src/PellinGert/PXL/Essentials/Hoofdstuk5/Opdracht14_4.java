@@ -1,4 +1,4 @@
-package PellinGert.PXL.Essentials.Hoofdstuk5;
+package PellinGert.PXL.essentials.Hoofdstuk5;
 
 public class Opdracht14_4 {
 

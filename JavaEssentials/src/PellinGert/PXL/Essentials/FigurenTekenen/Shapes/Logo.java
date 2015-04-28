@@ -1,11 +1,12 @@
-package PellinGert.PXL.Essentials.FigurenTekenen.Shapes;
+package PellinGert.PXL.essentials.figurentekenen.shapes;
 
+import java.awt.*;
 import java.util.ArrayList;
 
 /**
  * Created by gert on 4/04/2015.
  */
-public class Logo {
+public class Logo implements Drawable{
     private ArrayList<Circle> circles;
     private ArrayList<Rectangle> rectangles;
     private String text;
@@ -75,5 +76,20 @@ public class Logo {
                 ", Rectangles=" + rectangles.size() +
                 ", Text='" + text + '\'' +
                 '}';
+    }
+
+    @Override
+    public void Draw(Graphics g) {
+
+    }
+
+    @Override
+    public void scale(int factor) {
+        for (Circle circle : circles) {
+            circle.scale(factor);
+        }
+        for (Rectangle rectangle : rectangles) {
+            rectangle.scale(factor);
+        }
     }
 }

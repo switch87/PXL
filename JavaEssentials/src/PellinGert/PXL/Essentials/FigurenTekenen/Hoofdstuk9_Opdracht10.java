@@ -1,14 +1,12 @@
-package PellinGert.PXL.Essentials.FigurenTekenen;
+package PellinGert.PXL.essentials.figurentekenen;
 
-import PellinGert.PXL.Essentials.FigurenTekenen.Shapes.*;
-
-import java.util.ArrayList;
+import PellinGert.PXL.essentials.figurentekenen.shapes.*;
 
 /**
  * Created by gp on 23/04/15.
  * Hoofdstuk 9: Opdracht 10 punt 5
  */
-public class DrawingApp {
+public class Hoofdstuk9_Opdracht10 {
     public static void main(String[] args) {
         Drawing shapes = new Drawing();
         System.out.println("Size: "+shapes.getSize());

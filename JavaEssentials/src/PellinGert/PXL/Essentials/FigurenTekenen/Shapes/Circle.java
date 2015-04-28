@@ -1,4 +1,6 @@
-package PellinGert.PXL.Essentials.FigurenTekenen.Shapes;
+package PellinGert.PXL.essentials.figurentekenen.shapes;
+
+import java.awt.*;
 
 /**
  * Created by gert on 4/04/2015.
@@ -86,5 +88,15 @@ public class Circle extends Shape {
         int result = super.hashCode();
         result = 31 * result + getRadius();
         return result;
+    }
+
+    @Override
+    public void Draw(Graphics g) {
+
+    }
+
+    @Override
+    public void scale(int factor) {
+        this.setRadius((this.radius*factor)/100);
     }
 }
