@@ -10,19 +10,17 @@ import static java.lang.System.out;
  */
 public class Hoofdstuk11_Opdarcht2 {
     public static void main(String[] args) {
-        Drawable s1 = new Circle(5, 5, 5);
-        Drawable s2 = new Rectangle(5, 8, 7, 1);
-        Drawable s3 = new Square(8, 5, 4);
-        Drawable s4 = new IsoScalesTriangle(15,33,7,5);
+        Scaleable s1 = new Circle(5, 5, 5);
+        Scaleable s2 = new Rectangle(5, 8, 7, 1);
+        Scaleable s3 = new Square(8, 5, 4);
+        Scaleable s4 = new IsoScalesTriangle(15,33,7,5);
 
-        Drawing drawing = new Drawing();
-        drawing.add(s1);
-        drawing.add(s2);
-        drawing.add(s3);
-        drawing.add(s4);
-        
+        Scaleable scalables[]={s1,s2,s3,s4};
+
         out.println("Oude dimenties:\n");
-            out.println(drawing.toString());
+        for (Scaleable scaleable: scalables) {
+            out.println(scaleable.toString());
+        }
 
         ((Circle)s1).scaleHalf();
         ((Rectangle)s2).scaleDouble();
@@ -30,6 +28,8 @@ public class Hoofdstuk11_Opdarcht2 {
         ((IsoScalesTriangle)s4).scaleQuarter();
 
         out.println("\nNieuwe dimenties:\n");
-        out.println(drawing.toString());
+        for (Scaleable scaleable: scalables) {
+            out.println(scaleable.toString());
+        }
     }
 }
