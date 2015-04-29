@@ -6,7 +6,7 @@ import java.util.ArrayList;
 /**
  * Created by gert on 4/04/2015.
  */
-public class Logo implements Drawable{
+public class Logo implements Drawable {
     private ArrayList<Circle> circles;
     private ArrayList<Rectangle> rectangles;
     private String text;

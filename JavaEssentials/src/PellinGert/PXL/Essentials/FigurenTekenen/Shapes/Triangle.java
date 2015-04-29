@@ -5,7 +5,7 @@ import java.awt.*;
 /**
  * Created by gert on 5/04/2015.
  */
-public class Triangle extends Shape{
+public class Triangle extends Shape {
     private static final int ANGLES = 3;
     private static final String description = "triangle";
     private static int count = 0;
@@ -121,7 +121,7 @@ public class Triangle extends Shape{
 
     @Override
     public void scale(int factor) {
-        this.setWidth((this.width*factor)/100);
-        this.setHeight((this.height*factor)/100);
+        this.setWidth((this.width * factor) / 100);
+        this.setHeight((this.height * factor) / 100);
     }
 }

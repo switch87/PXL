@@ -97,6 +97,6 @@ public class Circle extends Shape {
 
     @Override
     public void scale(int factor) {
-        this.setRadius((this.radius*factor)/100);
+        this.setRadius((this.radius * factor) / 100);
     }
 }

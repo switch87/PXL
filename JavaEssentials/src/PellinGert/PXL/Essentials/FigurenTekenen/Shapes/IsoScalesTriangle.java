@@ -33,21 +33,18 @@ public class IsoScalesTriangle extends Triangle {
     }
 
     @Override
-    public void setWidth(int width) {
-        super.setWidth(width);
-        setPerpendicular(width/2);
+    public void setPerpendicular(int perpendicular) {
+        if (perpendicular != getWidth() / 2) {
+            System.out.println("Perpendicular of isoscales triangle can't be altered, try converting to regular triangle");
+        } else {
+            super.setPerpendicular(getWidth() / 2);
+        }
     }
 
     @Override
-    public void setPerpendicular(int perpendicular) {
-        if (perpendicular !=getWidth()/2)
-        {
-            System.out.println("Perpendicular of isoscales triangle can't be altered, try converting to regular triangle");
-        }
-        else
-        {
-            super.setPerpendicular(getWidth() / 2);
-        }
+    public void setWidth(int width) {
+        super.setWidth(width);
+        setPerpendicular(width / 2);
     }
 
     @Override

@@ -3,7 +3,7 @@ package PellinGert.PXL.essentials.figurentekenen.shapes;
 /**
  * Created by gert on 5/04/2015.
  */
-public abstract class Shape implements Drawable{
+public abstract class Shape implements Drawable {
     private static int count = 0;
     private int x, y;
 

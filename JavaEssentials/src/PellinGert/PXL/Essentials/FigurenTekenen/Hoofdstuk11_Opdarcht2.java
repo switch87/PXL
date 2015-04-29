@@ -1,6 +1,9 @@
 package PellinGert.PXL.essentials.figurentekenen;
 
-import PellinGert.PXL.essentials.figurentekenen.shapes.*;
+import PellinGert.PXL.essentials.figurentekenen.shapes.Circle;
+import PellinGert.PXL.essentials.figurentekenen.shapes.IsoScalesTriangle;
+import PellinGert.PXL.essentials.figurentekenen.shapes.Rectangle;
+import PellinGert.PXL.essentials.figurentekenen.shapes.Square;
 
 import static java.lang.System.out;
 
@@ -10,26 +13,25 @@ import static java.lang.System.out;
  */
 public class Hoofdstuk11_Opdarcht2 {
     public static void main(String[] args) {
-        Scaleable s1 = new Circle(5, 5, 5);
-        Scaleable s2 = new Rectangle(5, 8, 7, 1);
-        Scaleable s3 = new Square(8, 5, 4);
-        Scaleable s4 = new IsoScalesTriangle(15,33,7,5);
-
-        Scaleable scalables[]={s1,s2,s3,s4};
+        Drawing drawing = new Drawing();
+        drawing.add(new Circle(50, 50, 50));
+        drawing.add(new Rectangle(50, 80, 70, 10));
+        drawing.add(new Square(80, 50, 40));
+        drawing.add(new IsoScalesTriangle(150, 330, 70, 50));
 
         out.println("Oude dimenties:\n");
-        for (Scaleable scaleable: scalables) {
-            out.println(scaleable.toString());
-        }
+        System.out.println(drawing.toString());
 
-        ((Circle)s1).scaleHalf();
-        ((Rectangle)s2).scaleDouble();
-        ((Square)s3).scale(55);
-        ((IsoScalesTriangle)s4).scaleQuarter();
+        drawing.scaleHalf();
+        out.println("\nNieuwe dimenties (50%):\n");
+        System.out.println(drawing.toString());
 
-        out.println("\nNieuwe dimenties:\n");
-        for (Scaleable scaleable: scalables) {
-            out.println(scaleable.toString());
-        }
+        drawing.scaleDouble();
+        out.println("\nNieuwe dimenties (200%):\n");
+        System.out.println(drawing.toString());
+
+        drawing.scaleQuarter();
+        out.println("\nNieuwe dimenties (25%):\n");
+        System.out.println(drawing.toString());
     }
 }

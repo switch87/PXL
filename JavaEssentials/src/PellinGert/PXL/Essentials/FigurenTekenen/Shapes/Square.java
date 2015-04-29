@@ -53,7 +53,6 @@ public class Square extends Rectangle {
     }
 
 
-
     @Override
     public String toString() {
         return "Square{" +
@@ -66,6 +65,6 @@ public class Square extends Rectangle {
 
     @Override
     public void scale(int factor) {
-        setSide((getSide()*factor)/100);
+        setSide((getSide() * factor) / 100);
     }
 }
