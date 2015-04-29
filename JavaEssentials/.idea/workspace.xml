@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd8600e4-f2ac-405e-a9bf-3958e9c25658" name="Default" comment="Hoofdstuk 11: Opdracht 2">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PellinGert/PXL/essentials/hoofdstuk12/Musician.java" afterPath="$PROJECT_DIR$/src/PellinGert/PXL/essentials/hoofdstuk12/Musician.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaEssentials.iws" />
@@ -44,31 +45,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/essentials/figurentekenen/shapes/Rectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="93" column="23" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
-              <folding>
-                <element signature="method#Rectangle#0;class#Rectangle#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RightAngledTriangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/essentials/figurentekenen/shapes/RightAngledTriangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-              <folding>
-                <element signature="e#666#667#0" expanded="true" />
-                <element signature="e#694#695#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Hoofdstuk11_Opdarcht2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/essentials/figurentekenen/Hoofdstuk11_Opdarcht2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,14 +70,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Drawing.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Drawing.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/essentials/figurentekenen/Drawing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3406193">
+            <state vertical-scroll-proportion="0.0">
               <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Musician.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/essentials/hoofdstuk12/Musician.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3715847">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -212,6 +198,7 @@
         <option value="$PROJECT_DIR$/src/PellinGert/PXL/essentials/figurentekenen/Hoofdstuk9_Opdracht10.java" />
         <option value="$PROJECT_DIR$/src/PellinGert/PXL/essentials/figurentekenen/Drawing.java" />
         <option value="$PROJECT_DIR$/src/PellinGert/PXL/essentials/figurentekenen/Hoofdstuk11_Opdarcht2.java" />
+        <option value="$PROJECT_DIR$/src/PellinGert/PXL/essentials/hoofdstuk12/Musician.java" />
       </list>
     </option>
   </component>
@@ -302,6 +289,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="essentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEssentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEssentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="essentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hoofdstuk12" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -793,7 +802,7 @@
       <workItem from="1429771995444" duration="652000" />
       <workItem from="1429808105463" duration="10658000" />
       <workItem from="1430204877397" duration="10714000" />
-      <workItem from="1430301083919" duration="991000" />
+      <workItem from="1430301083919" duration="1883000" />
     </task>
     <task id="LOCAL-00001" summary="triangle">
       <created>1429562072420</created>
@@ -835,7 +844,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35838000" />
+    <option name="totallyTimeSpent" value="36730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="251" y="79" width="1400" height="1000" extended-state="0" />
@@ -900,25 +909,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/essentials/figurentekenen/shapes/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="82" column="57" selection-start-line="82" selection-start-column="57" selection-end-line="82" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/essentials/figurentekenen/shapes/RightAngledTriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="e#666#667#0" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/essentials/figurentekenen/shapes/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1369,11 +1359,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/essentials/figurentekenen/Drawing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3406193">
+        <state vertical-scroll-proportion="0.0">
           <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PellinGert/PXL/essentials/hoofdstuk12/Musician.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3715847">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
